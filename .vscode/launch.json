@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReadfromFile",
+            "request": "launch",
+            "mainClass": "ReadfromFile",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Files",
+            "request": "launch",
+            "mainClass": "Files",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InputValidation",
             "request": "launch",
             "mainClass": "InputValidation",
