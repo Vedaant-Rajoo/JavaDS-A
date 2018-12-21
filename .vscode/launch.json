@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HighandLow",
+            "request": "launch",
+            "mainClass": "HighandLow",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Methods",
             "request": "launch",
             "mainClass": "Methods",
