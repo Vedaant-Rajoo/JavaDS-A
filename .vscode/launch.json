@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReadfromFile",
             "request": "launch",
             "mainClass": "ReadfromFile",
