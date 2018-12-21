@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TheSwitchStatement",
+            "request": "launch",
+            "mainClass": "TheSwitchStatement",
+            "projectName": "JavaDS-A"
+        }
+    ]
+}
