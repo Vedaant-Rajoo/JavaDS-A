@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InputValidation",
+            "request": "launch",
+            "mainClass": "InputValidation",
+            "projectName": "JavaDS-A"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TheSwitchStatement",
             "request": "launch",
             "mainClass": "TheSwitchStatement",
